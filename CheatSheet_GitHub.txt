@@ -1,0 +1,14 @@
+CheatSheet Project Push on GitHub   
+=================================
+1=> Touch .gitignore
+2=> git Config --global user.name/email xyz
+3=> git init
+4=> git add . 
+5=> git commit -m "Initial Commit"
+6=> git Status (for Status  Clean MSG)
+7=> git remote add origin git@github.com:DwivediCyberDairy/OCCPL.git 
+8=> ssh-keygen -t rsa -b 4096 -C "[your github's email]" 
+9=> cat <Path to id_rsa.pub>
+10=> Add SSH Key in your Github Account
+11=> git remote add origin git@github.com:DwivediCyberDairy/OCCPL.git 
+12=> git push origin master
